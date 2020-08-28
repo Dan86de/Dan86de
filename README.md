@@ -1,7 +1,6 @@
 ![programista frontend](https://github.com/Dan86de/Dan86de/blob/master/GIT_TOP.png)
 
-Hi there 👋!
-I am Daniel
+### Hi there 👋! I am Daniel
 
 Working in automotive industry design department taught me how to be a part of large projects for most German brands. Result and time pressure requires from me precise information exchange and excellent time and budget management skills. Cooperation with many technology departments whose objectives are not necessarily overlap, requires skills of negotiation and compromise finding. With that proven background in Automotive Industy, I am looking to transition into IT World.
 
