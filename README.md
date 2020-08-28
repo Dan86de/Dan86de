@@ -1,6 +1,17 @@
-## Hi My name is Daniel Noworyta :wave:
+![programista frontend](GIT_TOP.png)
 
-### From the moment I saw red light on the Commodore 64 power indicator I knew this is my thing. Since 2012 I’m working as a mechanical engineer in automotive industry. Everytime when I’m coming back home from my current work I’m sitting in front of my desk and starting typing code. Around two years ago I’ve decided to commit myself to change industry. I'm currently looking for junior frontend web dev position. Below You can find examples of my work.
+Hi there 👋!
+I am Daniel
 
-- 🔭 I’m currently working on : programistafrontend.pl
-- 📫 How to reach me: daniel.noworyta@gmail.com
+Working in automotive industry design department taught me how to be a part of large projects for most German brands. Result and time pressure requires from me precise information exchange and excellent time and budget management skills. Cooperation with many technology departments whose objectives are not necessarily overlap, requires skills of negotiation and compromise finding. With that proven background in Automotive Industy, I am looking to transition into IT World.
+
+Why coding? Well, since I remember I was really interested in Internet and Computers. That passion started when my father bought me first computer (Commodore 64). Moment when I saw red light of power indicator changed my life. I was coding in my free time for myself. Doing some web UI/UX Design and simple projects. My communication and problem solving skills helped me during my Automotive career.
+
+## Let's work together:
+
+- 📫 daniel.noworyta@gmail.com
+
+### 💬 Where to find me:
+
+- 🦜 Twitter: https://twitter.com/danielnoworyta
+- 🎥 Youtube: https://www.youtube.com/channel/UCfiwERhmAaYkYy_Hwfke_7w
