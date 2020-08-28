@@ -18,7 +18,7 @@ Why coding? Well, since I remember I was really interested in Internet and Compu
 
 - 📫 daniel.noworyta@gmail.com
 
-### 💬 Where to find me:
+## Where to find me:
 
 - 🦜 Twitter: https://twitter.com/danielnoworyta
 - 🎥 Youtube: https://www.youtube.com/channel/UCfiwERhmAaYkYy_Hwfke_7w
