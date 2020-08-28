@@ -1,4 +1,4 @@
-![programista frontend](GIT_TOP.png)
+![programista frontend](https://github.com/Dan86de/Dan86de/blob/master/GIT_TOP.png)
 
 Hi there 👋!
 I am Daniel
