@@ -14,7 +14,11 @@ Why coding? Well, since I remember I was really interested in Internet and Compu
 
 <img alt="ReactJS" title="ReactJS" src="https://cdn.worldvectorlogo.com/logos/react.svg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Jest" title="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 
-## Let's work together:
+## Currently working:
+
+- 💻 https://av360.io/
+
+## Questions:
 
 - 📫 daniel.noworyta@gmail.com
 
