@@ -12,7 +12,7 @@ Why coding? Well, since I remember I was really interested in Internet and Compu
 
 ## Currently learning:
 
-<img alt="ReactJS" title="ReactJS" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Jest" title="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Remix" title="Remix" src="https://docs.remix.run/favicon-32.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Jest" title="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Currently working:
 
