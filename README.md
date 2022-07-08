@@ -12,7 +12,7 @@ Why coding? Well, since I remember I was really interested in Internet and Compu
 
 ## Currently learning:
 
-<img alt="Remix" title="Remix" src="https://drive.google.com/file/d/1Fm0tynDiUpXVZIyi9aBnDxbIMIU_H_jo/view?usp=sharing" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Jest" title="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Remix" title="Remix" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Jest" title="Jest" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Currently working:
 
