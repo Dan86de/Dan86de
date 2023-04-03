@@ -1,4 +1,4 @@
-![programista frontend](https://github.com/Dan86de/Dan86de/blob/master/Facebook%20Cover%20Photo.png)
+![programista frontend](https://github.com/Dan86de/Dan86de/blob/master/hero.jpg)
 
 ### Hi there 👋! I am Daniel
 
