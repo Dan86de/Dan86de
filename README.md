@@ -2,9 +2,9 @@
 
 ### Hi there 👋! I am Daniel
 
-Working in automotive industry design department taught me how to be a part of large projects for most German brands. Result and time pressure requires from me precise information exchange and excellent time and budget management skills. Cooperation with many technology departments whose objectives are not necessarily overlap, requires skills of negotiation and compromise finding. With that proven background in Automotive Industy, I'am building my frontend web developer career.
+Working in the automotive industry design department taught me how to participate in large projects for most German brands. Result and time pressure require from me precise information exchange and excellent time and budget management skills. Cooperation with many technology departments whose objectives do not necessarily overlap requires negotiation and compromise-finding skills. With that proven background in the Automotive industry, I am building my frontend web developer career.
 
-Why coding? Well, since I remember I was really interested in Internet and Computers. That passion started when my father bought me first computer (Commodore 64). Moment when I saw red light of power indicator changed my life. I was coding in my free time for myself. Doing some web UI/UX Design and simple projects. Below You can find my current Projects and learning path.
+Why coding? Well, since I remember I have been really interested in the Internet and Computers. That passion started when my father bought me my first computer (Commodore 64). The moment when I saw the red light of the power indicator changed my life. I was coding in my free time for myself. Doing some web UI/UX Design and simple projects. Below You can find my current Projects and learning path.
 
 ## My development toolbelt:
 
