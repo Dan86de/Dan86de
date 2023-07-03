@@ -14,7 +14,7 @@ Below You can find my current Projects and learning path.
 
 ## Currently learning:
 
-<img alt="Remix" title="Remix" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24"><img alt="TypeScript" title="TypeScript" src="[https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/788px-Nextjs-logo.svg.png?20230404233503)" height="24">
+<img alt="Remix" title="Remix" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="NextJS" title="NextJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/788px-Nextjs-logo.svg.png?20230404233503" height="24">
 
 ## Currently working:
 
