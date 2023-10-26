@@ -1,4 +1,4 @@
-![programista frontend]([https://github.com/Dan86de/Dan86de/blob/master/hero.jpg](https://dsc.cloud/88160a/dan.webp))
+![programista frontend](https://dsc.cloud/88160a/dan.webp)
 
 ### Hi there 👋! I am Daniel
 
