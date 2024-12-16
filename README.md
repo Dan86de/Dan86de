@@ -1,5 +1,3 @@
-![programista frontend](https://dsc.cloud/88160a/dan.webp)
-
 ### Hi there 👋! I am Daniel
 
 Working in the automotive industry design department taught me how to participate in large projects for most German brands. Result and time pressure require from me precise information exchange and excellent time and budget management skills. Cooperation with many technology departments whose objectives do not necessarily overlap requires negotiation and compromise-finding skills. With that proven background in the Automotive industry, I am building my full-stack developer career.
