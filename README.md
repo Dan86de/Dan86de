@@ -16,6 +16,7 @@ Below You can find my current Projects and learning path.
 ## Currently learning:
 
 <img alt="Python" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="NestJS" title="NestJS" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 ## Currently working:
 
 - 💻 https://vaillant.com/
