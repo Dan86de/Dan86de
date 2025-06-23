@@ -45,5 +45,5 @@ My dedication extends beyond just my work. I am committed to helping others chan
 #### Where to find me:
 
 [![Twitter](https://img.shields.io/badge/-danielnoworyta-070A0D?logo=X)](https://x.com/danielnoworyta)
-[![YouTube](https://img.shields.io/badge/-programistafrontend-070A0D?logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/@danielnoworyta)
+[![YouTube](https://img.shields.io/badge/-programistafrontend-070A0D?logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@danielnoworyta)
 [![LinkedIn](https://img.shields.io/badge/-programistafrontend-070A0D?logo=LinkedIn)](https://www.linkedin.com/in/danielnoworyta/)
