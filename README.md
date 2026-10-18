@@ -2,7 +2,7 @@
 
 I started over once. Ten years modeling car surfaces in automotive, then I taught myself to code.
 
-Today I'm a senior full-stack developer at [Vaillant](https://vaillant.com), leading Team Firefly on **myVaillant Pro**, the app field service technicians use every day. TypeScript and React by trade, full-stack by choice.
+Today I'm a senior full-stack developer at [Vaillant](https://vaillant.com), one of the developers in Team Spike building **myVaillant Pro**, the app field service technicians use every day. TypeScript and React by trade, full-stack by choice.
 
 The craft I fought for is being rewritten by AI faster than I expected. So I build with it, from inside the work, and share what works, what breaks and what I'm changing. No roundups of other people's threads.
 
