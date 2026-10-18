@@ -1,49 +1,65 @@
-### Hi there 👋! I am Daniel
+### Hi, I'm Daniel 👋
 
-I once left a lucrative career in the automotive industry to chase my passion for technology. My journey started in 2017, when I dove headfirst into learning and refining my skills in the tech world. By 2020, I found myself working full-time as a software developer in Germany.
+I started over once. Ten years modeling car surfaces in automotive, then I taught myself to code.
 
-I document my journey on my [YouTube](https://youtube.com/c/danielnoworyta) channel, offering a transparent window into my life. I share tutorials and videos focused on helping others transition into a tech career just like I did.
+Today I'm a senior full-stack developer at [Vaillant](https://vaillant.com), leading Team Firefly on **myVaillant Pro**, the app field service technicians use every day. TypeScript and React by trade, full-stack by choice.
 
-I’m a staunch advocate for developer experience and find myself constantly striving for pixel-perfect interfaces. I’m obsessed with prioritizing user experience and the fine details of design. I firmly believe in the power of learning and building in public view, transparently sharing my process to inspire and assist others.
+The craft I fought for is being rewritten by AI faster than I expected. So I build with it, from inside the work, and share what works, what breaks and what I'm changing. No roundups of other people's threads.
 
-My dedication extends beyond just my work. I am committed to helping others change their careers, in the hope that they too can find the same passion and satisfaction I have found in technology.
+## What I'm building
 
-## TechStack Info
+- **[skills](https://github.com/Dan86de/skills)** - the agent skills I actually use in my daily work.
+- **AI-native workflows** - spec-driven, phase-gated development where agents do the typing and engineers own the decisions.
 
-#### Languages I primary use
-![Typescript](https://img.shields.io/badge/-TypeScript-070A0D?style=flat&logo=TypeScript&logoColor=6f97cc)
-![JavaScript](https://img.shields.io/badge/-Javascript-070A0D?style=flat&logo=JavaScript)
+## Stack
 
-#### Tools I primary use
-[![Nodejs](https://img.shields.io/badge/-Node.js-070A0D?style=flat&logo=node.js)](https://nodejs.org/en)
-![SQL](https://img.shields.io/badge/-SQL-070A0D?style=flat&logo=postgresql&logoColor=32648c)
-[![PNPM](https://img.shields.io/badge/-pnpm-070A0D?style=flat&logo=pnpm)](https://pnpm.io/)
-[![PNPM](https://img.shields.io/badge/-docker-070A0D?style=flat&logo=docker)](https://www.docker.com/)
+#### Languages
+[![TypeScript](https://img.shields.io/badge/-TypeScript-070A0D?style=flat&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-070A0D?style=flat&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-Python-070A0D?style=flat&logo=python)](https://python.org/)
+[![Rust](https://img.shields.io/badge/-Rust-070A0D?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
-#### Frameworks and Libraries I primary use
-[![ReactJS](https://img.shields.io/badge/-React-070A0D?style=flat&logo=React)](https://react.dev/)
-[![React Native](https://img.shields.io/badge/-React_Native-070A0D?style=flat&logo=React)](https://reactnative.dev/)
-[![Prisma](https://img.shields.io/badge/-Prisma-070A0D?style=flat&logo=Prisma)](https://prisma.io/)
-[![NestJS](https://img.shields.io/badge/-Nest-070A0D?style=flat&logo=NestJS&logoColor=ed1543)](https://nestjs.com/)
+#### Frontend and mobile
+[![React](https://img.shields.io/badge/-React-070A0D?style=flat&logo=react)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/-React_Native-070A0D?style=flat&logo=react)](https://reactnative.dev/)
+[![Next.js](https://img.shields.io/badge/-Next.js-070A0D?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Astro](https://img.shields.io/badge/-Astro-070A0D?style=flat&logo=astro&logoColor=white)](https://astro.build/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-070A0D?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-070A0D?style=flat&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![Radix UI](https://img.shields.io/badge/-Radix_UI-070A0D?style=flat&logo=radixui&logoColor=white)](https://www.radix-ui.com/)
+[![Motion](https://img.shields.io/badge/-Motion-070A0D?style=flat&logo=framer&logoColor=white)](https://motion.dev/)
+[![TanStack](https://img.shields.io/badge/-TanStack-070A0D?style=flat&logo=reactquery)](https://tanstack.com/)
+[![Tauri](https://img.shields.io/badge/-Tauri-070A0D?style=flat&logo=tauri)](https://tauri.app/)
 
-#### Currently learning:
+#### Backend and data
+[![Node.js](https://img.shields.io/badge/-Node.js-070A0D?style=flat&logo=nodedotjs)](https://nodejs.org/)
+[![Bun](https://img.shields.io/badge/-Bun-070A0D?style=flat&logo=bun&logoColor=white)](https://bun.sh/)
+[![Deno](https://img.shields.io/badge/-Deno-070A0D?style=flat&logo=deno&logoColor=white)](https://deno.com/)
+[![NestJS](https://img.shields.io/badge/-NestJS-070A0D?style=flat&logo=nestjs&logoColor=ed1543)](https://nestjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-070A0D?style=flat&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+[![Prisma](https://img.shields.io/badge/-Prisma-070A0D?style=flat&logo=prisma&logoColor=white)](https://prisma.io/)
+[![Redis](https://img.shields.io/badge/-Redis-070A0D?style=flat&logo=redis)](https://redis.io/)
 
-[![Python](https://img.shields.io/badge/-Python-070A0D?style=flat&logo=Python)](https://python.org/)
+#### Tooling and infra
+[![pnpm](https://img.shields.io/badge/-pnpm-070A0D?style=flat&logo=pnpm)](https://pnpm.io/)
+[![Docker](https://img.shields.io/badge/-Docker-070A0D?style=flat&logo=docker)](https://www.docker.com/)
+[![Vercel](https://img.shields.io/badge/-Vercel-070A0D?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Azure Pipelines](https://img.shields.io/badge/-Azure_Pipelines-070A0D?style=flat)](https://azure.microsoft.com/products/devops/pipelines)
+[![Jest](https://img.shields.io/badge/-Jest-070A0D?style=flat&logo=jest)](https://jestjs.io/)
 
-## Current Working Status
+#### AI
+[![Claude](https://img.shields.io/badge/-Claude-070A0D?style=flat&logo=claude&logoColor=D97757)](https://claude.ai/)
+[![Claude Code](https://img.shields.io/badge/-Claude_Code-070A0D?style=flat&logo=anthropic&logoColor=D97757)](https://claude.com/claude-code)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-070A0D?style=flat)](https://openai.com/)
 
-#### Currently working:
+## Follow the work
 
-[![Vaillant](https://img.shields.io/badge/Vaillant-070A0D.svg?logo=data:image/jpeg;base64,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)](https://vaillant.com)
+- ✉️ **[Weekly newsletter](https://danielnoworyta.com)** - what I built with AI this week, what broke, what I'm changing
+- ▶️ **[YouTube](https://www.youtube.com/@danielnoworyta)** - AI workflows and engineering careers, now in English
+- 🌐 **[danielnoworyta.com](https://danielnoworyta.com)** - writing, experience, uses
 
-## Contact
-
-#### Questions:
-
-[![Gmail](https://img.shields.io/badge/-Gmail-070A0D?logo=Gmail)](mailto:daniel.noworyta@gmail.com)
-
-#### Where to find me:
-
-[![Twitter](https://img.shields.io/badge/-danielnoworyta-070A0D?logo=X)](https://x.com/danielnoworyta)
-[![YouTube](https://img.shields.io/badge/-programistafrontend-070A0D?logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@danielnoworyta)
-[![LinkedIn](https://img.shields.io/badge/-programistafrontend-070A0D?logo=LinkedIn)](https://www.linkedin.com/in/danielnoworyta/)
+[![Website](https://img.shields.io/badge/-danielnoworyta.com-070A0D?style=flat&logo=googlechrome&logoColor=white)](https://danielnoworyta.com)
+[![YouTube](https://img.shields.io/badge/-@danielnoworyta-070A0D?style=flat&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@danielnoworyta)
+[![LinkedIn](https://img.shields.io/badge/-danielnoworyta-070A0D?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/danielnoworyta/)
+[![X](https://img.shields.io/badge/-@danielnoworyta-070A0D?style=flat&logo=X)](https://x.com/danielnoworyta)
+[![Email](https://img.shields.io/badge/-Email-070A0D?style=flat&logo=Gmail)](mailto:daniel.noworyta@gmail.com)
