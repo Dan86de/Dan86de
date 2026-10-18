@@ -36,6 +36,7 @@ The craft I fought for is being rewritten by AI faster than I expected. So I bui
 [![Bun](https://img.shields.io/badge/-Bun-070A0D?style=flat&logo=bun&logoColor=white)](https://bun.sh/)
 [![Deno](https://img.shields.io/badge/-Deno-070A0D?style=flat&logo=deno&logoColor=white)](https://deno.com/)
 [![NestJS](https://img.shields.io/badge/-NestJS-070A0D?style=flat&logo=nestjs&logoColor=ed1543)](https://nestjs.com/)
+[![Effect](https://img.shields.io/badge/-Effect-070A0D?style=flat&logo=effect&logoColor=white)](https://effect.website/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-070A0D?style=flat&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
 [![Prisma](https://img.shields.io/badge/-Prisma-070A0D?style=flat&logo=prisma&logoColor=white)](https://prisma.io/)
 [![Redis](https://img.shields.io/badge/-Redis-070A0D?style=flat&logo=redis)](https://redis.io/)
